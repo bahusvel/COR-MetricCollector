@@ -1,0 +1,6 @@
+[submodule "collectd"]
+	path = collectd
+	url = https://github.com/bahusvel/COR-Collectd.git
+[submodule "cor"]
+	path = cor
+	url = https://github.com/bahusvel/COR-Framework-Python.git
