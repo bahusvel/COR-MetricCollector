@@ -4,6 +4,3 @@
 [submodule "cor"]
 	path = cor
 	url = https://github.com/bahusvel/COR-Framework-Python.git
-[submodule "graphite"]
-	path = graphite
-	url = https://github.com/bahusvel/COR-Graphite.git
