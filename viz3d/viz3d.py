@@ -1,4 +1,4 @@
-from cor.api import CORModule, Message
+from cor.api import CORModule
 
 
 class Viz3D(CORModule):
